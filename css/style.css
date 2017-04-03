@@ -1,0 +1,13 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	background-color: indianred;
+}
+* {
+	box-sizing: border-box;
+}
+
+.random-joke {
+	margin-top: 50px;
+}
+
