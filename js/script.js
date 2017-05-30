@@ -1,4 +1,4 @@
-var url = 'http://api.icndb.com/jokes/random',
+var url = 'https://api.icndb.com/jokes/random',
     button = document.getElementById('get-joke'),
     paragraph = document.getElementById('joke');
 
